@@ -1,5 +1,9 @@
 **Customer Churn Analysis (Power BI)**
 
+#Live Interactive Dashboard
+
+Click here to open the Power BI Report(https://app.powerbi.com/view?r=eyJrIjoiMjQ0YjNmNGQtNTg2MS00NjExLWJkNzAtNmQwMjYzZWU2NzUyIiwidCI6IjljYTMxODVjLTIzYzEtNDg5Yy1iOTk1LTFlNGVjYWM2MWM3YiIsImMiOjEwfQ%3D%3D)
+
 **Project Overview**
 
 - This project focuses on analyzing customer churn to identify key factors that influence how many customers stay or leave by different segmentations. Using Power BI, the goal was to create an interactive dashboard that highlights patterns in customer behavior and helps explain which customer segments have the highest churn.
@@ -170,8 +174,6 @@ This repository contains the following files:
 - README.md — Project documentation
 
 - Customer Churn Analysis Dashboard.pdf — A PDF export of the Power BI dashboard
-
-- Customer Churn Analysis.pbit — The Power BI file for interactive exploration
 
 **Interactivity**
 
