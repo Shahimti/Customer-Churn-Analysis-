@@ -124,7 +124,9 @@ The dashboard includes the following key visuals:
 This repository contains the following files:
 - README.md — Project documentation
 
-- Customer Churn Analysis Dashboard.pdf — A PDF export of the Power BI dashboard
+- Customer Churn Analysis Dashboard.pdf — A PDF export of the Power BI dashboard.
+
+- Teleco Raw Data.csv - A CSV file that shows the raw file of this dataset.
 
 **Interactivity**
 
