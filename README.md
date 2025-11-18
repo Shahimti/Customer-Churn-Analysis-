@@ -2,7 +2,8 @@
 
 #Live Interactive Dashboard
 
-Click here to open the Power BI Report(https://app.powerbi.com/view?r=eyJrIjoiMjQ0YjNmNGQtNTg2MS00NjExLWJkNzAtNmQwMjYzZWU2NzUyIiwidCI6IjljYTMxODVjLTIzYzEtNDg5Yy1iOTk1LTFlNGVjYWM2MWM3YiIsImMiOjEwfQ%3D%3D)
+[Click here](https://app.powerbi.com/view?r=eyJrIjoiMjQ0YjNmNGQtNTg2MS00NjExLWJkNzAtNmQwMjYzZWU2NzUyIiwidCI6IjljYTMxODVjLTIzYzEtNDg5Yy1iOTk1LTFlNGVjYWM2MWM3YiIsImMiOjEwfQ%3D%3D)
+
 
 **Project Overview**
 
