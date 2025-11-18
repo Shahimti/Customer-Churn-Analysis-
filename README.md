@@ -29,56 +29,6 @@ This one-page dashboard brings together multiple perspectives of the data and is
 
 Dataset Source: Kaggle Open Data Set
 
-**Columns Used**
-
-- Customer ID
-
-- Gender
-
-- Senior Citizen
-
-- Partner
-
-- Dependents
-
-- Tenure
-
-- Tenure Group
-
-- Phone Service
-
-- Multiple Lines
-
-- Internet Type
-
-- Has Internet
-
-- Online Security
-
-- Online Backup
-
-- Device Protection
-
-- Tech Support
-
-- Streaming TV
-
-- Streaming Movies
-
-- Contract
-
-- Contract Type
-
-- Paperless Billing
-
-- Payment Group
-
-- Monthly Charges
-
-- Total Charges
-
-- Churn
-
 **Data Cleaning Steps**
 
 Several cleaning steps were performed in Power Query before building the visuals:
